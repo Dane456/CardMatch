@@ -224,7 +224,7 @@ class ViewController: UIViewController {
             
            return
         }
-        
+        //Test
         //get the card that was tapped
         
         var cardThatWasTapped:Card = recognizer.view as Card
